@@ -1,2 +1,7 @@
-# web-335
-Introduction to NoSQL Assignments
+# WEB 335 Introduction to NoSQL
+
+## Contributors
+* John Davidson
+* Professor Krasso
+
+
